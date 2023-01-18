@@ -1,14 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab88ce8c-21c9-4a3a-a8a1-12dba61cb68b" name="Changes" comment="" />
+    <list default="true" id="ab88ce8c-21c9-4a3a-a8a1-12dba61cb68b" name="Changes" comment="Added Work from Lab01.">
+      <change afterPath="$PROJECT_DIR$/src/Lab01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab02.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KU1yqTLGKPcFmgBnbZa4IrYiHD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,12 +36,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Lab02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab02" />
+    <configuration name="Lab01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab01" />
       <module name="CSC308_Swing_2" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -32,7 +50,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab02" />
+        <item itemvalue="Application.Lab01" />
       </list>
     </recent_temporary>
   </component>
@@ -45,6 +63,18 @@
       <option name="presentableId" value="Default" />
       <updated>1674014604237</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Work from Lab01.">
+      <created>1674014718282</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674014718282</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Work from Lab01." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Work from Lab01." />
   </component>
 </project>

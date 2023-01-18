@@ -102,6 +102,15 @@ public class Lab01 extends JFrame implements WindowListener, ActionListener {
         JPanel pink = new JPanel(new GridLayout(1, 1));
         JPanel yellow = new JPanel(new GridLayout(1, 1));
         JPanel orange = new JPanel(new GridLayout(1, 1));
+        
+        
+        //create button to put in Cyan
+        JButton jButton = new JButton("Click For Dialog");
+        cyan.add(jButton);
+        jButton.addActionListener(this);
+        jButton.setSize(40,20);
+        jButton.setBounds(50,50,20,20);
+        cyan.add(jButton);
 
         //Yellow
         yellow.add(new JLabel("Hello"));
@@ -188,6 +197,6 @@ public class Lab01 extends JFrame implements WindowListener, ActionListener {
 
     @Override
     public void actionPerformed(ActionEvent e) {
-
+        JOptionPane.showMessageDialog(this,"Dialog");
     }
 }
